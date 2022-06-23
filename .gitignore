@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+
+# Production
+/build
+
+# Next.JS
+/.next/
+/out/
+
+# Env
+.env
+.env.*
+.env.*.*
+!.env.sample
+
+# Misc
+.DS_Store
+*.pem
